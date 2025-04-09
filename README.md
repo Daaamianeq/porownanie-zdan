@@ -1,2 +1,2 @@
 # porownanie-zdan
-Repo do porównania dwóch wersji zdań
+to moje pierwsze gitowanie
