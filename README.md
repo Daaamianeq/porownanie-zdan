@@ -1,2 +1,2 @@
 # porownanie-zdan
-to moje pierwsze gitowanie
+a nie to jednak moje drugie gitowanie
